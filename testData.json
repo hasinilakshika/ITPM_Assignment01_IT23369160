@@ -1,0 +1,178 @@
+[
+  {
+    "id": "Pos_Fun_0001",
+    "input": "Apita meaka hadhanna theerennee naee.",
+    "expected": "අපිට මේක හදන්න තේරෙන්නේ නෑ."
+  },
+  {
+    "id": "Pos_Fun_0002",
+    "input": "Mama kadeeta yanavaa.",
+    "expected": "මම කඩේට යනවා."
+  },
+  {
+    "id": "Pos_Fun_0003",
+    "input": "Mata badaginii kanna monavaa hari dhenna.",
+    "expected": "මට බඩගිනී කන්න මොනවා හරි දෙන්න."
+  },
+  {
+    "id": "Pos_Fun_0004",
+    "input": "Machan, adha havasa mata podi vaedak thiyenavaa. mata beheth ganna yanna oonee roohalata. ubath ekka adha magul gedhara yanna enna venne naethi veyi. uba thaniyama gihin varen ikmanata.",
+    "expected": "මචන්, අද හවස මට පොඩි වැඩක් තියෙනවා. මට බෙහෙත් ගන්න යන්න ඕනේ රෝහලට. උබත් එක්ක අද මගුල් ගෙදර යන්න එන්න වෙන්නෙ නැති වෙයි. උබ තනියම ගිහින් වරෙන් ඉක්මනට."
+  },
+  {
+    "id": "Pos_Fun_0005",
+    "input": "machan api supiri party ekak dhaamu mee saeree. mama mage JBL ekath aragena ennam. uba BBQ dhanna oonee karana badu tika aragena enna. mama dhanna hodha thaenak thiyenavaa api eheta  yamu.",
+    "expected": "මචන් අපි සුපිරි party එකක් දාමු මේ සැරේ. මම mage JBL එකත් අරගෙන එන්නම්. උබ BBQ දන්න ඕනේ කරන බඩු ටික අරගෙන එන්න. මම දන්න හොද තැනක් තියෙනවා අපි එහෙට  යමු."
+  },
+  {
+    "id": "Pos_Fun_0006",
+    "input": "Suba  udhaeesanak siyaluma dhenatama!",
+    "expected": "සුබ  උදෑසනක් සියලුම දෙනටම!"
+  },
+  {
+    "id": "Pos_Fun_0007",
+    "input": "aa hari, heta udheema enna api vaedee patan gamu.",
+    "expected": "ආ හරි, හෙට උදේම එන්න අපි වැඩේ පටන් ගමු."
+  },
+  {
+    "id": "Pos_Fun_0008",
+    "input": "Adha udhee  karapu tasks tika ivarayi machan. Okkoma documents upload karalaa thiyenavaa, poddak review karalaa feedback ekak dhenna. Heta thava discussion ekak thiyenavaa kiyalaa team leader kivvaa, ehema nam time ekata join venna. Api team eka vidhihata mee project eka hodhatama complete karamu..",
+    "expected": "අද උදේ  කරපු tasks ටික ඉවරයි මචන්. ඔක්කොම documents upload කරලා තියෙනවා, පොඩ්ඩක් review කරලා feedback එකක් දෙන්න. හෙට තව discussion එකක් තියෙනවා කියලා team leader කිව්වා, එහෙම නම් time එකට join වෙන්න. අපි team එක විදිහට මේ project එක හොදටම complete කරමු."
+  },
+  {
+    "id": "Pos_Fun_0009",
+    "input": "dhuvee Rs. 200 ka parippu 250g aran ennakoo.",
+    "expected": "දුවේ Rs. 200 ක පරිප්පු 250g අරන් එන්නකෝ."
+  },
+   {
+    "id": "Pos_Fun_0010",
+    "input": "Eyaa iiyea maava balanna aavaa, oyaa dhaekkadha eyaava?",
+    "expected": "එයා ඊයේ මාව බලන්න ආවා, ඔයා දැක්කද එයාව?"
+  },
+  {
+    "id": "Pos_Fun_0011",
+    "input": " haemadhaama emails balanna.",
+    "expected": " හැමදාම emails බලන්න."
+  },
+  {
+    "id": "Pos_Fun_0012",
+    "input": "Adha havasata google meeting ekak dhaala assignment document eka hadhalaa ivara karamu. anith ayatath velaavata join venna kiyanna, ikmanata document eka hadhalaa submit karamu adha raeetama.",
+    "expected": "අද හවසට google meeting එකක් දාල assignment document එක හදලා ඉවර කරමු. අනිත් අයටත් වෙලාවට join වෙන්න කියන්න, ඉක්මනට document එක හදලා submit කරමු අද රෑටම."
+  },
+  {
+    "id": "Pos_Fun_0013",
+    "input": "Ammaa pereedhaa kadeeta giyaa",
+    "expected": "අම්මා පෙරේදා කඩේට ගියා"
+  },
+  {
+    "id": "Pos_Fun_0014",
+    "input": "Eyaalath api ekka gedhara giyee.",
+    "expected": "එයාලත් අපි එක්ක ගෙදර ගියේ."
+  },
+  {
+    "id": "Pos_Fun_0015",
+    "input": "Mea assignment eke errors godaayi, eevaa okkoma hadhalaa git hub ekata push karanna haemooma. ",
+    "expected": "මේ assignment eke errors ගොඩායි, ඒවා ඔක්කොම හදලා git hub එකට push කරන්න හැමෝම. "
+  },
+  {
+    "id": "Pos_Fun_0016",
+    "input": "Mama kannam haebaeyi oyath kaeema kanna oonee.",
+    "expected": "මම කන්නම් හැබැයි ඔයත් කෑම කන්න ඕනේ."
+  },
+  {
+    "id": "Pos_Fun_0017",
+    "input": "siQQhala aluth avuurudhu uthsavaya 2026-04-14 dhina pe.va 9.00 ta maathara vijayaseekara kriidapitiyee paevaethvimata niyamithama aetha, ee sadhahaa oba saevooma sahaBhaagii vanna.",
+    "expected": "සිංහල අලුත් අවූරුදු උත්සවය 2026-04-14 දින පෙ.ව 9.00 ට මාතර විජයසේකර ක්‍රීඩපිටියේ පැවැත්විමට නියමිතම ඇත, ඒ සදහා ඔබ සැවෝම සහභාගී වන්න."
+  },
+  {
+    "id": "Pos_Fun_0018",
+    "input": "karuNaakara mee job ekata apply karanna.",
+    "expected": "කරුණාකර මේ job එකට apply කරන්න."
+  },
+   {
+    "id": "Pos_Fun_0019",
+    "input": "Haemooma poth eliyata ganna. gedhara vaeda dhaen karanna ganna.",
+    "expected": "හැමෝම පොත් එලියට ගන්න. ගෙදර වැඩ දැන් කරන්න ගන්න."
+  },
+  {
+    "id": "Pos_Fun_0020",
+    "input": "Oyaa Hilton hootalayee party ekata adha raeeta enavadha?",
+    "expected": "ඔයා Hilton හෝටලයේ party එකට අද රෑට එනවද?"
+  },
+  {
+    "id": "Pos_Fun_0021",
+    "input": "Phone eka reset karaa. dhaen oyaata eeka aluth phone ekak vagee paavichchi karanna puluvan.",
+    "expected": "Phone එක reset කරා. දැන් ඔයාට ඒක අලුත් phone එකක් වගේ පාවිච්චි කරන්න පුලුවන්."
+  },
+  {
+    "id": "Pos_Fun_0022",
+    "input": "IlaGA avurudhdhee august vedhdhi mama rata yanavaa.",
+    "expected": "ඉලඟ අවුරුද්දේ august වෙද්දි මම රට යනවා."
+  },
+  {
+    "id": "Pos_Fun_0023",
+    "input": "Oyata puluvandha mata kaeema kavanna?",
+    "expected": "ඔයට පුලුවන්ද මට කෑම කවන්න?"
+  },
+  {
+    "id": "Pos_Fun_0024",
+    "input": "oya dhaen chuttak chuttak kaeema kanna purudhu venna naethnam mukuth nokaa idhalaa ayeth leda veyi. Heta idhalaa api assignment karanna patan ganna oonee. naethnam apita deadline ekata kalin ivara karaganna baeri veyi.",
+    "expected": "ඔය දැන් චුට්ටක් චුට්ටක් කෑම කන්න පුරුදු වෙන්න නැත්නම් මුකුත් නොකා ඉදලා අයෙත් ලෙඩ වෙයි. හෙට ඉදලා අපි assignment කරන්න පටන් ගන්න ඕනේ. නැත්නම් අපිට deadline එකට කලින් ඉවර කරගන්න බැරි වෙයි."
+  },
+  {
+    "id": "Neg_Fun_0001",
+    "input": "machan ada mama oyage car eka chuttak aran giyata kmk nadda?",
+    "expected": "මචන් අද මම ඔයගේ car එක චුට්ටක් අරන් ගියාට කමක් නැද්ද?"
+  },
+   {
+    "id": "Neg_Fun_0002",
+    "input": "Siyaluma lamaige demaupiyan 2026-02-05 dina pevethvimata niyamitha resvima sadhahaa sahabagii viima aniwarya vee. nopenminena demaupiyan kalin thama panthi bara guru thumiyata danwana men illan sitimi",
+    "expected": "සියලුම ලමයින්ගේ දෙමාපියන් 2026-02-05 දින පැවෙත්විමට නියමිත රැස්විම සදහා සහභාගී වීම අනිවාරය වේ. නොපෙමිනෙන දෙමාපියන් කලින් තම පන්ති බාර ගුරුතුමියට දන්වන මෙන් ඉල්ලා සිටිමි."
+  },
+  {
+    "id": "Neg_Fun_0003",
+    "input": "Mata nayak oner Rs6000 mata e mudhal dunnoth mama oyata e naya maasa 2 athulatatha gewnawa kiyalaa promise venavaa, mokadha mage bank eke fixed deposit eke interest eka e veddi ganna puluwan oyata puluwanda mer situation ekedi mata help ekak denna. ",
+    "expected": "මට ණයක් ඕනේ Rs6000 මට ඒ මුදල් දුන්නොත් මම ඔයාට ඒ ණය මාස 2 අතුලත ගෙවනවා කියලා promise වෙනවා, මොකද mage bank එකේ fixed deposit එකේ interest එක ඒ වෙද්දි ගන්න පුලුවන් ඔයාට පුලුවන්ද මේ situation එකේදී මට help එකක් දෙන්න. "
+  },
+   {
+    "id": "Neg_Fun_0004",
+    "input": "Final meeting ekata kalin api presentation eka hadala ivara karmu.",
+    "expected": "Final meeting එකට කලින් අපි presentation එක හදලා ඉවර කරමු."
+  },
+   {
+    "id": "Neg_Fun_0005",
+    "input": "Apoo case neh needa, mee vede hariyta karagnna bari vevi.",
+    "expected": "ආපෝ case නෙහ් නේද, මේ වැඩේ හරියට කරගන්න බැරි වෙවි."
+  },
+   {
+    "id": "Neg_Fun_0006",
+    "input": "nangi ada hawasata koheda yanna thiyenne?",
+    "expected": "නංගි අද හවසට කොහෙද යන්න තියෙන්නේ?"
+  },
+   {
+    "id": "Neg_Fun_0007",
+    "input": "podu depala reka genima apa siyalu denagema vadakimaki. siyalu denama e sadaha sahaya vanna.",
+    "expected": "පොදු දේපල රැක ගැනේම අප සියලු දෙනාගෙම වගකිඑමකි. සියලු දෙනාම ඒ සදහා සහය වන්න."
+  },
+   {
+    "id": "Neg_Fun_0008",
+    "input": "abilaaShakaamii vyaapaara himikaruvanta mema paatamaalaave upakaarayen kriyaakaarii vyaapaara snkalpa goda naegiima sadahaa lankaa kaarmika sannvardhana maNdalaya visin nirmaaNaya karana ladha navathama kRUthrima budhdi thaakshanaya Bhaavithaa kaLa haekiya. eya antharkriyaakaarii pariikshana, parishiilaka yedhavum matha padhanamva pudhgaliikaraNaya kaLa kruthrima budhdhi uthpadhitha vyaapaarika sankalpa saha viidiyo paaTamaalaa eekaabada karayi.",
+    "expected": "අභිලාෂකාමී ව්‍යාපාර හිමිකරුවන්ට මෙම පාඨමාලාවේ උපකාරයෙන් ක්‍රියාකාරී ව්‍යාපාර සංකල්ප ගොඩ නැගීම සඳහා ලංකා කාර්මික සංවර්ධන මණ්ඩලය විසින් නිර්මාණය කරන ලද නවතම කෘත්‍රිම බුද්ධි තාක්‍ෂණය භාවිතා කළ හැකිය. එය අන්තර්ක්‍රියාකාරී පරීක්ෂණ, පරිශීලක යෙදවුම් මත පදනම්ව පුද්ගලීකරණය කළ කෘත්‍රිම බුද්ධි උත්පාදිත ව්‍යාපාරික සංකල්ප සහ වීඩියෝ පාඨමාලා ඒකාබද්ධ කරයි."
+  },
+  {
+    "id": "Neg_Fun_0009",
+    "input": "Oya moratuwen bahinna.",
+    "expected": "ඔයා මොරටුවෙන් බහින්න."
+  },
+  {
+    "id": "Neg_Fun_0010",
+    "input": "Ayubowana, suba sendewak! ",
+    "expected": "ආයුබෝවන්, සුභ සැන්දෑවක්! "
+  },
+  {
+    "id": "Neg_Fun_0011",
+    "input": "Den welwa kiyada?",
+    "expected": "දැන් වෙලාව කියද?"
+  }
+ 
+]
