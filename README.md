@@ -13,6 +13,10 @@ The system tests a language translation web application using JSON-driven testin
 3. Open terminal in the project folder.
 4. Run the following command:
 
+## Prerequisites
+- Node.js (v18 or later)
+- npm
+
 ## Install Project Dependencies
 npm install
 
@@ -24,3 +28,4 @@ npx playwright test --headed
 
 ## View Test Report
 npx playwright show-report
+
