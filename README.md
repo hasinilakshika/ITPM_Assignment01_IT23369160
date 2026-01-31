@@ -10,7 +10,7 @@ The system tests a language translation web application using JSON-driven testin
 ## How to Run the Tests
 1. Clone the GitHub repository **or** extract the provided project folder.
 2. Open the project directory using Visual Studio Code.
-3. Open terminal in the project folder
+3. Open terminal in the project folder.
 4. Run the following command:
 
 ## Install Project Dependencies
