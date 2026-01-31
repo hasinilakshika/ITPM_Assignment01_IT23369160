@@ -14,6 +14,7 @@ The system tests a language translation web application using JSON-driven testin
 4. Run the following command:
 
 ## Prerequisites
+- Use your own WiFi network
 - Node.js (v18 or later)
 - npm
 
